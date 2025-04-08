@@ -7,6 +7,7 @@
 * Fixed a new problem with the version strings, thanks to (hdnh2006)[https://github.com/hdnh2006].
 * Fixed a problem in stream['id'] using stream['index'] instead. Thanks to (hdnh2006)[https://github.com/hdnh2006] for spot the problem.
 * Added support for "new" and "old" version strings for `ffmpeg`:
+* GUI interface created with the Tkinter library is included.
 
 ```python
 #
